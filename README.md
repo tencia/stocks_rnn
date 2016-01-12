@@ -1,7 +1,4 @@
-# stocks_rnn
-Stock price prediction using an LSTM, implemented in TensorFlow
-
-### Stock Price Prediction using LSTM
+# Stock Price Prediction using LSTM
 Downloads adjusted daily returns of a configurable date range and set of stocks from Yahoo Finance, concatenates them all into a long sequence, and trains an LSTM to predict future returns based on the sequence of past returns.
 
 ### Specifics
